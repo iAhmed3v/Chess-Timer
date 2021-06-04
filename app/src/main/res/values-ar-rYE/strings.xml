@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ساعة الشطرنج</string>
+    <string name="one_min_text">دقيقة</string>
+    <string name="five_min_text">5 دقائق</string>
+    <string name="ten_min_text">10 دقائق</string>
+    <string name="fifteen_min_text">15 دقيقة</string>
+    <string name="twenty_min_text">20 دقيقة</string>
+    <string name="thirty_min_text">30 دقيقة</string>
+    <string name="reset_text">إعادة ضبط الساعة؟</string>
+    <string name="no_text">لا</string>
+    <string name="yes_text">نعم</string>
+</resources>
